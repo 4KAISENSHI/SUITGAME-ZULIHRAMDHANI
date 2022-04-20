@@ -6,4 +6,6 @@ Challenge untuk Class Gold Boothcamp Binar Academy
 Kelas Android Engineering Wave 13.
 
 
-By. Zul Ihram Dhani
+Oleh : Zul Ihram Dhani
+
+Semoga bisa sesuai kriteria untuk mengikuti next chapt Amiin :D
