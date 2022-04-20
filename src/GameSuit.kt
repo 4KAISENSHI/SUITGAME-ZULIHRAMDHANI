@@ -1,6 +1,6 @@
 fun main(){
-    val pemain1 = Pemain<Any>("Pemain 1")
-    val pemain2 = Pemain<Any>("Pemain 2")
+    val pemain1 = Pemain("Pemain 1")
+    val pemain2 = Pemain("Pemain 2")
 
     do {
 

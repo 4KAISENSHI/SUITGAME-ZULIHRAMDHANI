@@ -1,6 +1,9 @@
+ //Validasi ulang pada saat game berakhir
+ //Apabila pemain ingin bermain lagi, harus menginput YA / GA
+
     fun ulang(): Boolean {
         lateinit var ulang: String
-        var hasil: Boolean = true
+        var hasil = true
         do{
             print("COBA LAGI GAK NIH? (YA/GA)?")
             ulang = readLine().toString().uppercase()

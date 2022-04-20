@@ -1,4 +1,4 @@
-class Pemain<unit>(var namaPemain:String) {
+class Pemain(var namaPemain:String) {
     lateinit var nilai:String
 
     fun input() {
@@ -9,6 +9,8 @@ class Pemain<unit>(var namaPemain:String) {
             //Cek Kebenaran input user atau pemain
             //pemain hanya dapat menginput: Gunting, Batu atau Kertas
             //bila salah menginput, pemain harus mengulang inputan
+
+
             val valid = validator(nilai)
         } while (!valid)
     }

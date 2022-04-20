@@ -3,7 +3,8 @@ class CekHasil(var namaPemain1:String, var nilaiPemain1:String,
     lateinit var hasil: String
     
     //Menampilkan fungsi yang akan jadi pemenang
-    fun cek(): Unit {
+
+    fun cek() {
         if (nilaiPemain1 == "BATU" && nilaiPemain2 == "BATU") {
             hasil = "Seri"
         }
